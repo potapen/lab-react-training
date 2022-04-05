@@ -1,0 +1,18 @@
+.driverCard img{
+    height: 8rem;
+    border-radius: 4rem;
+
+}
+
+.driverCard{
+    background-color: blue;
+    width: 80%;
+    display:flex;
+    flex-direction: row;
+    
+    justify-content: center;
+    color:white;
+
+    margin: 10px;
+    border-radius: 1rem;
+}

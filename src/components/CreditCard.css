@@ -1,0 +1,20 @@
+.creditCard{
+    position:relative;
+    border: 1px solid black;
+    width: 22%;
+    margin: 5px;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+.cardLogo{
+    height: 20px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.cardNumber{
+    margin-top: 3rem;
+    font-size: 2rem;
+}

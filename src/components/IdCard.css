@@ -1,0 +1,10 @@
+.IdCard{
+    border: black 1px solid;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.IdCard article{
+    line-height: 0.8rem;
+}
